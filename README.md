@@ -1,0 +1,2 @@
+# HosipitalManageSystem
+前端vue框架 后端springboot的医院管理系统
