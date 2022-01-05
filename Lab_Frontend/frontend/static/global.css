@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  /*background: url("../assets/background/checkerboard-cross.png") repeat;*/
+  font-size: 20px;
+  /*color: white;*/
+  font-family: PingFangSC-Light; /*苹果设计的一款全新的中文系统字体，该字体支持苹果的动态字体调节技术*/
+  /*height:100%;*/
+  /*margin: 0;*/
+}
+
+ul {
+  list-style: none;
+}
+li{
+  width: 100px;
+  float: left;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.elcontainer{
+  font-size:20px ;
+
+  height: 50px;
+  background-color: #b4bccc;
+}
+
+.nav-left{
+  margin: 0;
+  float:left;
+  height: 40px;
+}
+
+
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
